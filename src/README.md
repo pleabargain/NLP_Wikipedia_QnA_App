@@ -2,6 +2,9 @@
 # project idea
 The goal would be to point the app at any web page and ask questions about the page. The questions and the answers will be saved to a database. But, after some testing, the roberta model can barely answer direct questions. Many more things to learn here!
 
+# question
+why isn't my readme showing up in the fork?
+
 
 To run this use:
 ```streamlit run app.py```
